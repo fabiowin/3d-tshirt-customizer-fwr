@@ -1,4 +1,4 @@
-# GPT3_FWR
+# 3D T-Shirt Customizer
 
 <img src="./client/readme/home.png" alt="home page">
 
