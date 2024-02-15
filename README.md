@@ -21,7 +21,7 @@ Live preview: https://3d-tshirt-customizer-fwr.vercel.app/
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Three.js]: https://img.shields.io/badge/Threejs-20232A?style=for-the-badge&logo=threedotjs&logoColor=000000&color=ffffff
+[Three.js]: https://img.shields.io/badge/Threejs-20232A?style=for-the-badge&logo=threedotjs&logoColor=fff
 [Threejs-url]: https://threejs.org/
-[Ai]: https://img.shields.io/badge/Ai-20232A?style=for-the-badge&logo=openai&logoColor=000000&color=ffffff
+[Ai]: https://img.shields.io/badge/Ai-20232A?style=for-the-badge&logo=openai&logoColor=fff
 [Ai-url]: https://www.edenai.co/
