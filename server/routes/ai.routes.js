@@ -9,10 +9,6 @@ dotenv.config();
 
 const router = express.Router();
 
-router.route('/').get((req, res) => {
-  res.status(200).json({ message: "Hello from routes" });
-});
-
 router.route('/').post(async (req, res) => {
   try {
     const { prompt } = req.body;
